@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<you@youremail.com>
+    - text: "My Website"
+      href: https://oliviawbn.github.io/
+output:
+  html_document:
+    theme: cerulean

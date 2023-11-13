@@ -12,4 +12,6 @@ Hello world!
 
 - hello
 - world!
+- [My Website](https://oliviawbn.github.io/)
 
+![selfie](https://github.com/oliviawbn/ChineseCaribbeanStories/blob/main/selfie%20(1).jpg?raw=true){width=60%}
